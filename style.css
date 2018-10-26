@@ -1,0 +1,22 @@
+body {
+    color: #2ecc71;
+    font-family: Arial, sans-serif;
+    background: white;
+}
+
+h1,h2,h3, h4, h5{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+img{
+    max-width: 100%;
+}
